@@ -1,0 +1,14 @@
+Version 1.02: 05/29/2001,  Mark Rages
+ * ANSI C
+ * Made "object-oriented": I stuffed all the global variables into a struct.
+ * Renamed functions to reduce the possibility of name collisions.
+ * Fixed a memory allocation bug 
+ * Moved declarations into a header file ( splotch.h )
+
+Version 1.01: 05/08/2000,  Duane K. Fields
+ * General cleanup
+ * Released under GPL
+
+Version 1.0:  07/17/1992,  Duane K. Fields
+ * Initial public release
+
